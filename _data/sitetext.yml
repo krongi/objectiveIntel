@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Onsite and Cloud Backup"
         desc: "Don't gamble with your critical data. Ensure your systems are backed up in case the unthinkable happens"
-        icon: fas fa-server
+        icon: fas fa-cloud
       - title: "Server and Network Management"
         desc: "Everything from server updates to periodic network scans and everything in between"
         icon: fas fa-server
