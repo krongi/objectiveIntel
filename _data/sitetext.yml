@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    # text: "Lorem ipsum"
+    text: "Local and Remote"
     section: services
     list:
       - title: "Onsite and Cloud Backup"
@@ -30,8 +30,6 @@ en: &DEFAULT_EN
       - title: Helpdesk and Consulting
         desc: "If you have a problem or want to discuss an upcoming project, give us a call"
         icon: fas fa-headset
-      # - title: "Custom Services"
-      #   desc: "Contact us with any questions for options"
 
   portfolio:
     title: "Projects Portfolio"
