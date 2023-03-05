@@ -30,8 +30,8 @@ en: &DEFAULT_EN
       - title: Helpdesk and Consulting #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "If you have a problem or want to discuss an upcoming project, give us a call"
         icon: fab fa-markdown
-      - title: "Custom Services"
-        desc: "Contact us with any questions for options"
+      # - title: "Custom Services"
+      #   desc: "Contact us with any questions for options"
 
   portfolio:
     title: "Portfolio"
