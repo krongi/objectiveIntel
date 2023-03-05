@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Onsite and Cloud Backup"
         desc: "Don't gamble with your critical data. Ensure your systems are backed up in case the unthinkable happens"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-floppy-disk-pen #find more at https://fontawesome.com/icons
       - title: "Server and Network Management"
         desc: "Everything from server updates to periodic network scans and everything in between"
-        icon: fas fa-laptop
+        icon: fas fa-server
       - title: Helpdesk and Consulting #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "If you have a problem or want to discuss an upcoming project, give us a call"
-        icon: fab fa-markdown
+        icon: fab fa-user-headset
       # - title: "Custom Services"
       #   desc: "Contact us with any questions for options"
 
