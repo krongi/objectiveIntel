@@ -54,11 +54,11 @@ en: &DEFAULT_EN
         desc: "Branching out into specific needs hardware devices was natural as clients began asking me for physical devices to fill a specific need. I created the 'Classic Rando' a hardware device based on an esp32 dev kit that is designed to emulate a bluetooth mouse and move randomly across the screen at random intervals to prevent lockout when working from home"
         image: assets/img/timeline/esp32.jpg
         alt:
-      # - title: "Jekyll Theme is created"
-      #   year: "2019"
-      #   desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-      #   image: assets/img/timeline/3.jpg
-      #   alt: image alt text
+      - title: "Custom Applications"
+        year: "2022-2023"
+        desc: "Creating custom applications for clients is now something we do as well. If you have an idea we can take it from concept to a functional application"
+        image: assets/img/timeline/code on screen.jpg
+        alt: image alt text
       # - title: "Title"
       #   year: "2009-2011"
       #   desc: "Your description here, **Markdown** is fully supported."
