@@ -47,7 +47,7 @@ en: &DEFAULT_EN
       - title: "Where We Began"
         year: "2019-2021"
         desc: "With just a single refurb sff pc and 2 monitors I set out to start and run my own business"
-        image: assets/img/timeline/TTS Cover Photo.png
+        image: assets/img/timeline/background.png
         alt:
       - title: "Customized Hardware Devices"
         year: "2021"
