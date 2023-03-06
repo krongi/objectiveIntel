@@ -1,11 +1,14 @@
 // Global styling for this template
 body {
   overflow-x: hidden;
+  background-color: $gray-300;
   @include body-font;
+  // color: purple;
 }
 
 p {
   line-height: 1.75;
+  // color: black;
 }
 
 a {
@@ -17,6 +20,7 @@ a {
 
 .text-primary {
   color: $primary !important;
+  // color: red;
 }
 
 h1,
@@ -35,10 +39,12 @@ h6 {
     font-size: 40px;
     margin-top: 0;
     margin-bottom: 15px;
+    // color:lime;
   }
   h3.section-subheading {
     font-size: 16px;
     font-weight: 400;
+    // color: purple;
     font-style: italic;
     margin-bottom: 75px;
     text-transform: none;

@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Classic Rando
+subtitle: Random mouse movements on a device. Hours of fun messing with your friends!
 image: assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Classic Rando
+  subtitle: Novelty Device
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Hardware based bluetooth device that can be installed like a bluetooth mouse. When activated the device will randomly move the cursor around the screen at random second intervals. Since you don't need to have it plugged into the device they'll never know why it's happening!
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: 2021
+- Client: Private
+- Category: Novelty Hardware Devices
 

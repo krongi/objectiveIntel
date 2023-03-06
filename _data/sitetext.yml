@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Important Moments"
+    text: ""
     section: timeline
     # left is the default
     # start_align: "left"
@@ -70,7 +70,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    # text: "our story"
+    text: ""
     body: "Objective Intel came from my love of technology, desire to start and run a successful business and the local need for small businesses to have IT support without a huge budget."
     section: about
 
