@@ -18,7 +18,7 @@ url    : https://objectiveintel.com # the base hostname & protocol for your site
 # baseurl: "/objectiveIntel" # the subpath of your site, e.g. /blog
 
 title      : Objective Intel
-email      : mgseverson@objectiveintel.com #this is also the email contact forms will go to
+email      : support@objectiveintel.com #this is also the email contact forms will go to
 description: "Objective Intel: Central Florida IT Services"
 # author     : 
 # logo:     #optional, defaults to site title
