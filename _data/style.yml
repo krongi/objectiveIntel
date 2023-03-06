@@ -1,7 +1,8 @@
 #Color Customization
 #highlight: "#54bfff"
 highlight: '#00FFFF'
-#white: "#FF0000"
+# white: "#FF0000"
+white: '#808080'
 #black: "#000"
 
 #Image Customization
