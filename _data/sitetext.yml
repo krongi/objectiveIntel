@@ -77,7 +77,7 @@ en: &DEFAULT_EN
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "no" #"yes/no"
     list:
       # - title: "Global Engineering and Hospitality Services"
       #   url: https://github.com/raviriley/agency-jekyll-theme
@@ -95,19 +95,19 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     text: "Get to know some of our all stars"
-    # subtext: 
+    subtext: "And what makes them tick"
     section: team
     people:
       - name: "Mark Severson"
         role: "Lead Engineer"
         image: assets/img/team/Signature Pic.jpg
-        # social:
-        #   - url: https://twitter.com
-        #     icon: fab fa-twitter
-        #   - url: https://facebook.com
-        #     icon: fab fa-facebook-f
-        #   - url: https://linkedin.com
-        #     icon: fab fa-linkedin-in
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
       # - name: "Larry Parker"
       #   role: "Lead Marketer"
       #   image: assets/img/team/2.jpg
