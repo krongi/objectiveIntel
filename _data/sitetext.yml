@@ -77,8 +77,8 @@ en: &DEFAULT_EN
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "no" #"yes/no"
-    # list:
+    horizontal-scrolling: "yes" #"yes/no"
+    list:
       # - title: "Global Engineering and Hospitality Services"
       #   url: https://github.com/raviriley/agency-jekyll-theme
       #   logo: assets/img/clients/GEHSLogo.jpg
@@ -97,6 +97,7 @@ en: &DEFAULT_EN
     text: "Get to know some of our all stars"
     section: team
     people:
+    list:
       - name: "Mark Severson"
         role: "Lead Engineer"
         image: assets/img/team/Signature Pic.jpg
