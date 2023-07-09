@@ -79,12 +79,12 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "yes" #"yes/no"
     list:
-      # - title: "Global Engineering and Hospitality Services"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/GEHSLogo.jpg
-    title: "Anti Aging Bed"
-    url: https://github.com/raviriley/agency-jekyll-theme
-    logo: assets/img/clients/AntiAgingBedLogo.jpg
+      - title: "Global Engineering and Hospitality Services"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/GEHSLogo.jpg
+      - title: "Anti Aging Bed"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/AntiAgingBedLogo.jpg
       # - title: "themeforest"
       #   url: https://github.com/raviriley/agency-jekyll-theme
       #   logo: assets/img/clients/themeforest.jpg
