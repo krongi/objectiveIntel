@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: ""
+    text: "Our Journey"
     section: timeline
     # left is the default
     # start_align: "left"
