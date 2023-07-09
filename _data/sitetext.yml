@@ -74,23 +74,23 @@ en: &DEFAULT_EN
     body: "Objective Intel came from my love of technology, desire to start and run a successful business and the local need for small businesses to have IT support without a huge budget."
     section: about
 
-  # clients:
-  #   section: clients
-  #   max-height: 100px
-  #   horizontal-scrolling: "" #"yes/no"
-  #   list:
-  #     - title: "envato"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/envato.jpg
-  #     - title: "designmodo"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/designmodo.jpg
-  #     - title: "themeforest"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/themeforest.jpg
-  #     - title: "Creative Market"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/creative-market.jpg
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "Global Engineering and Hospitality Services"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/GEHSLogo.jpg
+      - title: "Anti Aging Bed"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/AntiAgingBedLogo.jpg
+      # - title: "themeforest"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/themeforest.jpg
+      # - title: "Creative Market"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR AMAZING TEAM"
@@ -100,7 +100,7 @@ en: &DEFAULT_EN
     people:
       - name: "Mark Severson"
         role: "Lead Engineer"
-        image: assets/img/team/mark.jpg
+        image: assets/img/team/Signature Pic.jpg
         # social:
         #   - url: https://twitter.com
         #     icon: fab fa-twitter
@@ -108,26 +108,26 @@ en: &DEFAULT_EN
         #     icon: fab fa-facebook-f
         #   - url: https://linkedin.com
         #     icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+      # - name: "Larry Parker"
+      #   role: "Lead Marketer"
+      #   image: assets/img/team/2.jpg
+      #   social:
+      #     - url: https://twitter.com
+      #       icon: fab fa-twitter
+      #     - url: https://facebook.com
+      #       icon: fab fa-facebook-f
+      #     - url: https://linkedin.com
+      #       icon: fab fa-linkedin-in
+      # - name: "Diana Perterson"
+      #   role: "Lead Developer"
+      #   image: assets/img/team/500x500.jpg
+      #   social:
+      #     - url: https://twitter.com
+      #       icon: fab fa-twitter
+      #     - url: https://facebook.com
+      #       icon: fab fa-facebook-f
+      #     - url: https://linkedin.com
+      #       icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
