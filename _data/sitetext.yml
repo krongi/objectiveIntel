@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Projects Portfolio"
-    text: "Projects"
+    # text: "Projects"
     section: portfolio
     closebutton: "Close Project"
 
@@ -95,7 +95,6 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     text: "Get to know some of our all stars"
-    subtext: "And what makes them tick"
     section: team
     people:
       - name: "Mark Severson"
