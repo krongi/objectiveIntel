@@ -75,6 +75,7 @@ en: &DEFAULT_EN
     section: about
 
   clients:
+    title: "Clients"
     section: clients
     max-height: 100px
     horizontal-scrolling: "yes" #"yes/no"
@@ -97,7 +98,6 @@ en: &DEFAULT_EN
     text: "Get to know some of our all stars"
     section: team
     people:
-    list:
       - name: "Mark Severson"
         role: "Lead Engineer"
         image: assets/img/team/Signature Pic.jpg
