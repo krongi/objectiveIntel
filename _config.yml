@@ -19,7 +19,7 @@ url    : https://objectiveintel.com # the base hostname & protocol for your site
 
 title      : Objective Intel
 email      : support@objectiveintel.com #this is also the email contact forms will go to
-description: "Objective Intel: Central Florida IT Services"
+description: "Objective Intel: Central Florida IT and Tech Support Services"
 # author     : 
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
@@ -30,8 +30,8 @@ locale: "en-US" # See available languages in _data/sitetext.yml
 analytics:
   google: #Google Analytics tracking code here
 
-collections:
-  portfolio:
+# collections:
+  # portfolio:
 
 markdown: kramdown
 
