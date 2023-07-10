@@ -72,11 +72,11 @@ en: &DEFAULT_EN
     title: "Clients"
     section: clients
     max-height: 100px
-    horizontal-scrolling: "yes" #"yes/no"
+    horizontal-scrolling: "no" #"yes/no"
     list:
-      - title: "Global Engineering and Hospitality Services"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/GEHSLogo.jpg
+      # - title: "Global Engineering and Hospitality Services"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/GEHSLogo.jpg
       - title: "Anti Aging Bed"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/AntiAgingBedLogo.jpg
@@ -92,7 +92,7 @@ en: &DEFAULT_EN
     text: "Get to know some of our all stars"
     section: team
     people:
-      - name: "Mark Severson"
+        name: "Mark Severson"
         role: "Lead Engineer"
         image: assets/img/team/Signature Pic.jpg
         social:
@@ -137,6 +137,13 @@ en: &DEFAULT_EN
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
     submit: "Send Message"
+
+  about:
+    title: "About Us"
+    text: ""
+    body: "Objective Intel came from my love of technology, desire to start and run a successful business and the local need for small businesses to have IT support without a huge budget."
+    section: about
+
 
   footer:
     legal: "Privacy Policy"

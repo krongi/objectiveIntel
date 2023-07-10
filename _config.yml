@@ -32,7 +32,7 @@ analytics:
 
 collection:
   portfolio:
-  team:
+  # team:
 
 markdown: kramdown
 
