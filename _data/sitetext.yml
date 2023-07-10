@@ -68,12 +68,6 @@ en: &DEFAULT_EN
       #   # align: right
     end: "And we're  <br> just getting <br> started!"
 
-  about:
-    title: "About Us"
-    text: ""
-    body: "Objective Intel came from my love of technology, desire to start and run a successful business and the local need for small businesses to have IT support without a huge budget."
-    section: about
-
   clients:
     title: "Clients"
     section: clients
