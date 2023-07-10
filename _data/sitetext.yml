@@ -68,18 +68,18 @@ en: &DEFAULT_EN
       #   # align: right
     end: "And we're  <br> just getting <br> started!"
 
-  clients:
-    title: "Clients"
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "no" #"yes/no"
-    list:
-      # - title: "Global Engineering and Hospitality Services"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/GEHSLogo.jpg
-      - title: "Anti Aging Bed"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/AntiAgingBedLogo.jpg
+  # clients:
+  #   title: "Clients"
+  #   section: clients
+  #   max-height: 100px
+  #   horizontal-scrolling: "no" #"yes/no"
+  #   list:
+  #     # - title: "Global Engineering and Hospitality Services"
+  #     #   url: https://github.com/raviriley/agency-jekyll-theme
+  #     #   logo: assets/img/clients/GEHSLogo.jpg
+  #     - title: "Anti Aging Bed"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/AntiAgingBedLogo.jpg
       # - title: "themeforest"
       #   url: https://github.com/raviriley/agency-jekyll-theme
       #   logo: assets/img/clients/themeforest.jpg
