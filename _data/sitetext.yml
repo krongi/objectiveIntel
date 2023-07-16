@@ -32,7 +32,7 @@ en: &DEFAULT_EN
         icon: fas fa-headset
 
   portfolio:
-    title: "Projects Portfolio"
+    title: "Portfolio"
     text: "Projects"
     section: portfolio
     closebutton: "Close Project"
@@ -92,7 +92,7 @@ en: &DEFAULT_EN
     text: "Get to know some of our all stars"
     section: team
     people:
-        name: "Mark Severson"
+      - name: "Mark Severson"
         role: "Lead Engineer"
         image: assets/img/team/Signature Pic.jpg
         social:
